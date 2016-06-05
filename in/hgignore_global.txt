@@ -1,4 +1,4 @@
-12syntax: glob
+123syntax: glob
 
 Thumbs.db
 *.obj
